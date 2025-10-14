@@ -30,7 +30,7 @@ Authors : 6813359 Chinanya Phureewattana / 6813362 Nadhawanna Rangsitsatien
 | File | Description |
 |----------|----------|
 | healthtracker.py    | Python file is written using VS Code and utilizes Gradio as an imported library.      |
-| READ_ME.md    | Overview and Information of this project     |
+| README.md    | Overview and Information of this project     |
 
 <br>
 
