@@ -79,3 +79,9 @@ Or using a virtual environment
 - **Gradio**: Web interface framework
 - **Plotly**: Interactive data visualization
 - **Pandas**: Data manipulation
+
+<br>
+
+**License**
+
+This project is free to use for educational purposes.
