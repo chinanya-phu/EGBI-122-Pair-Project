@@ -29,9 +29,10 @@ Authors : 6813359 Chinanya Phureewattana / 6813362 Nadhawanna Rangsitsatien
 
 | File | Description |
 |----------|----------|
-| healthtracker.py    | Python file is written using VS Code and utilizes Gradio as an imported library.      |
+| healthtracker_final.py    | Python file is written using VS Code and utilizes Gradio as an imported library.      |
+| healthtracker.ipynb    | Convert python file into Jupyter notebook to see code and output together in one place    |
 | README.md    | Overview and Information of this project     |
-
+| EGBI 122 Pair Project report.pdf    | Explanation of this project How code work, advantages, limitations    |
 <br>
 
 **Requirements**
